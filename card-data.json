@@ -1,0 +1,167 @@
+{
+  "version": 2,
+  "exportedAt": "2026-05-04T11:39:45.936Z",
+  "card": {
+    "genInfo": {
+      "prefix": null,
+      "fname": "Corinne ",
+      "lname": "Vella",
+      "pronouns": null,
+      "name": null,
+      "title": null,
+      "biz": "SHE Plasters",
+      "desc": null,
+      "key": null,
+      "fp": null,
+      "tracker": null,
+      "fontLink": null,
+      "fontCss": null,
+      "street": "",
+      "city": "",
+      "state": "",
+      "postal": "",
+      "country": "",
+      "beforeTextLink": "Get your card @",
+      "linkedText": "Exposure Boost 👨‍💻",
+      "url": "https://o2o.to/i/1QdFNT",
+      "seoTitle": null,
+      "metaDescription": null,
+      "customFavi": "https://i.postimg.cc/Jh41tDXh/Untitled-design-2026-05-04T123440-689.png",
+      "shareImg": "https://i.postimg.cc/Jh41tDXh/Untitled-design-2026-05-04T123440-689.png",
+      "bookMarkImg": "https://i.postimg.cc/Jh41tDXh/Untitled-design-2026-05-04T123440-689.png",
+      "bookMarkTitle": null,
+      "metaName": null,
+      "metaContent": null,
+      "metaURL": null
+    },
+    "colors": {
+      "logoBg": {
+        "color": "#000000",
+        "openPalette": false
+      },
+      "mainBg": {
+        "color": "#000000",
+        "openPalette": false
+      },
+      "buttonBg": {
+        "color": "#fdfcf9",
+        "openPalette": false
+      },
+      "cardBg": {
+        "color": "#000000",
+        "openPalette": false
+      }
+    },
+    "hostedURL": null,
+    "footerCredit": true,
+    "footerCreditCustom": true,
+    "logoOrHeader": true,
+    "customFavicon": true,
+    "shareImage": true,
+    "seoOpti": true,
+    "seoOptimization": false,
+    "metaData": false,
+    "simplifyCard": false,
+    "isFeaturedOn": false,
+    "customFavi": true,
+    "bookMarkImg": null,
+    "bookMarkImage": true,
+    "bookMarkTitle": false,
+    "shareImg": null,
+    "images": {
+      "logo": null,
+      "photo": null,
+      "cover": {
+        "file": "cover.png",
+        "ext": "png",
+        "mime": "image/png"
+      },
+      "icon": null
+    },
+    "primaryActions": [
+      {
+        "name": "call",
+        "href": "tel:",
+        "placeholder": "+1XXXXXXXXXX",
+        "value": "+447481097247",
+        "label": "Your Phone Number"
+      },
+      {
+        "name": "email",
+        "href": "mailto:",
+        "placeholder": "info@example.com",
+        "value": "sheplasters1@gmail.com",
+        "label": "Your Email Address"
+      },
+      {
+        "name": "whatsApp",
+        "placeholder": "https://wa.me/profileID",
+        "value": "https://wa.me/+447481097247",
+        "label": "Your WhatsApp URL"
+      },
+      {
+        "name": "location",
+        "placeholder": "https://goo.gl/maps/location",
+        "value": "https://maps.app.goo.gl/91oSrbk13kTW6Mji8",
+        "label": "Your Maps Location URL"
+      },
+      {
+        "name": "website",
+        "placeholder": "https://example.com",
+        "value": "https://www.sheplasters.com/",
+        "label": "Your Website URL"
+      }
+    ],
+    "secondaryActions": [
+      {
+        "name": "instagram",
+        "placeholder": "https://instagram.com/UserName",
+        "value": "https://www.instagram.com/she_plasters?igsh=cG9wZmN3NmJsZW9v",
+        "color": "#405de6",
+        "label": "Your Instagram URL"
+      },
+      {
+        "name": "TikTok",
+        "icon": "tiktok",
+        "placeholder": "https://tiktok.com/UserName",
+        "value": "https://www.tiktok.com/@corinne4319?_r=1&_t=ZN-95ajkpFl5Wg",
+        "color": "#fff",
+        "label": "Your TikTok URL"
+      },
+      {
+        "name": "facebook",
+        "placeholder": "https://facebook.com/UserName",
+        "value": "https://www.facebook.com/the.female.locksmith?rdid=hD2AM2uUWcHlY1oM&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1FZt1hPHxs%2F#",
+        "color": "#1877f2",
+        "label": "Your Facebook URL"
+      }
+    ],
+    "featured": [
+      {
+        "title": "",
+        "content": [
+          {
+            "label": "Review us on Google!",
+            "link": "https://g.page/r/CaY-PwstYn_CEBM/review",
+            "contentType": "customButton"
+          },
+          {
+            "name": "googlelogonewest.png",
+            "title": "googlelogonewest",
+            "artist": null,
+            "album": null,
+            "filesize": null,
+            "type": "image",
+            "contentType": "media",
+            "ext": "png",
+            "mime": "image/png",
+            "info": null,
+            "file": "media/googlelogonewest.png",
+            "coverFile": null,
+            "coverExt": null
+          }
+        ]
+      }
+    ]
+  }
+}
